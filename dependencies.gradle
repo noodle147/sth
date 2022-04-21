@@ -4,7 +4,7 @@ ext {
                   'material': 'com.google.android.material:material:1.4.0',
            ],
            'com.jakewharton': [
-                   'butterknife:':'com.jakewharton:butterknife:10.2.3',
+                   'butterknife':'com.jakewharton:butterknife:10.2.3',
                    'butterknife-compiler':'com.jakewharton:butterknife-compiler:10.2.3'
            ],
            'haha': [
