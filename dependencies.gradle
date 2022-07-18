@@ -160,7 +160,7 @@ ext {
         ],
         "cn.nexthuman.wemeta.sdk" : [
             "bean" : "cn.nexthuman.wemeta.sdk:bean:0.1.1",
-            "sdk" : "cn.nexthuman.wemeta.sdk:sdk:0.1.7",
+            "sdk" : "cn.nexthuman.wemeta.sdk:sdk:0.1.8",
         ],
         "com.jieleye.java.library" : [
             "network" : "com.jieleye.java.library:network:0.1.0",
