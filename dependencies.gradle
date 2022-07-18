@@ -172,7 +172,7 @@ ext {
         "com.jieleye.android.library" : [
             "core" : "com.jieleye.android.library:core:0.0.6",
             "core-ui" : "com.jieleye.android.library:core-ui:0.0.8",
-            "webrtc" : "com.jieleye.android.library:webrtc:0.1.3",
+            "webrtc" : "com.jieleye.android.library:webrtc:0.1.4",
             "view-text-pingfang" : "com.jieleye.android.library:view-text-pingfang:0.0.1",
         ],
         "com.jieleye.android.camerax" : [
